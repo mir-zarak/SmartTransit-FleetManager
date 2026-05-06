@@ -228,15 +228,6 @@ No other dependencies. All data structures, utilities, and domain logic built fr
 
 ---
 
-## Contributors
-
-- Ahmed Umer
-- Zarak Mir
-
----
-
-## License
-
-MIT
+Made with ❤️
 ```
 
